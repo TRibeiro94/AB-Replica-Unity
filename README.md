@@ -1,4 +1,4 @@
-![Unity](Images/logo.png)
+<img src="/Images/logo.png" alt="logo" width="200" height="">
 
 ---------------------------------
 
