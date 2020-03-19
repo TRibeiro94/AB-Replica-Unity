@@ -8,6 +8,7 @@
 * I don't own any of the art used in this project.
 * Every pack used is from free sources.
 * All authors of every single art pack are identified below.
+* The game is playable by downloading the ZIP of repository, and clicking 'AB_Replica.exe' inside 'Executable' folder.
 
 ----------------------------------
 
