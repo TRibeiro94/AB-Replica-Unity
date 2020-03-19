@@ -2,7 +2,7 @@
 
 ---------------------------------
 
-#### My very first Unity project
+#### My very first Unity project!
 
 * An extremely simple four level game of Angry Birds replica.
 * I don't own any of the art used in this project.
@@ -12,11 +12,26 @@
 ----------------------------------
 
 ![MainMenu](Images/MainMenu.gif)
+
+----------------------------------
+
 ![Level1](Images/Level1.gif)
+
+----------------------------------
+
 ![Level2](Images/Level2.gif)
+
+----------------------------------
+
 ![Level3](Images/Level3.gif)
+
+----------------------------------
+
 ![Level4](Images/Level4.gif)
-![EndMenu](Images/EndMenu.gif)
+
+----------------------------------
+
+![EndMenu](Images/End.gif)
 
 ----------------------------------
 
