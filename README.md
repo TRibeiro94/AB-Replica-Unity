@@ -11,25 +11,37 @@
 
 ----------------------------------
 
+Main Menu
+
 ![MainMenu](Images/MainMenu.gif)
 
 ----------------------------------
+
+Level 1
 
 ![Level1](Images/Level1.gif)
 
 ----------------------------------
 
+Level 2
+
 ![Level2](Images/Level2.gif)
 
 ----------------------------------
+
+Level 3
 
 ![Level3](Images/Level3.gif)
 
 ----------------------------------
 
+Level 4
+
 ![Level4](Images/Level4.gif)
 
 ----------------------------------
+
+End
 
 ![EndMenu](Images/End.gif)
 
