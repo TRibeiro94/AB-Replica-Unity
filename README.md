@@ -6,7 +6,7 @@
 
 * An extremely simple four level game of Angry Birds replica.
 * I don't own any of the art used in this project.
-* Every pack used is from free sources.
+* Every pack used comes from free sources.
 * All authors of every single art pack are identified below.
 * The game is playable by downloading this repository ZIP, and clicking 'AB_Replica.exe' inside 'Executable' folder.
 
@@ -51,16 +51,13 @@ End
 #### Art
 
 Background, Green Bird and Enemy NPC's by: Bevouliin
-* Please visit (www.bevouliin.com) to check his work.
+* Please visit (www.bevouliin.com) to check this artist's work.
 
 Box 2D art by: Alucard
-* Please visit (www.opengameart.org/users/alucard) to check his work.
+* Please visit (www.opengameart.org/users/alucard) to check this artist's work.
 
 Mountain Art by: Bart Kelsey
-* Please visit (www.opengameart.org/users/bart) to check his work.
+* Please visit (www.opengameart.org/users/bart) to check this artist's work.
 
 Flame Animation by: Cem Kalyoncu
-* Please visit (www.opengameart.org/users/cemkalyoncu) to check his work.
-
-
-
+* Please visit (www.opengameart.org/users/cemkalyoncu) to check this artist's work.
